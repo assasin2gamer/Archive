@@ -1,0 +1,388 @@
+Test RMSE: 0.018336
+Test R^2: -0.093531
+Test Binary Accuracy: 0.487755
+
+Stock: AAPL
+  RMSE: 0.019108
+  R^2: -0.102118
+  Mean Daily Return: 0.000965
+  Daily Return Std Dev: 0.018201
+  Annualized Volatility: 0.288938
+  Sharpe Ratio: 0.841372
+
+Stock: ABT
+  RMSE: 0.015834
+  R^2: -0.092326
+  Mean Daily Return: 0.000467
+  Daily Return Std Dev: 0.015150
+  Annualized Volatility: 0.240494
+  Sharpe Ratio: 0.489619
+
+Stock: ACN
+  RMSE: 0.016731
+  R^2: -0.112042
+  Mean Daily Return: 0.000578
+  Daily Return Std Dev: 0.015866
+  Annualized Volatility: 0.251858
+  Sharpe Ratio: 0.577898
+
+Stock: ADBE
+  RMSE: 0.022755
+  R^2: -0.131368
+  Mean Daily Return: 0.000881
+  Daily Return Std Dev: 0.021393
+  Annualized Volatility: 0.339599
+  Sharpe Ratio: 0.653564
+
+Stock: AMZN
+  RMSE: 0.021792
+  R^2: -0.126667
+  Mean Daily Return: 0.000921
+  Daily Return Std Dev: 0.020530
+  Annualized Volatility: 0.325908
+  Sharpe Ratio: 0.712099
+
+Stock: BMY
+  RMSE: 0.015939
+  R^2: -0.061904
+  Mean Daily Return: -0.000050
+  Daily Return Std Dev: 0.015467
+  Annualized Volatility: 0.245537
+  Sharpe Ratio: -0.051723
+
+Stock: BRK-B
+  RMSE: 0.012838
+  R^2: -0.072082
+  Mean Daily Return: 0.000518
+  Daily Return Std Dev: 0.012399
+  Annualized Volatility: 0.196827
+  Sharpe Ratio: 0.662829
+
+Stock: CL=F
+  RMSE: 0.029950
+  R^2: -0.160140
+  Mean Daily Return: 0.000413
+  Daily Return Std Dev: 0.027806
+  Annualized Volatility: 0.441409
+  Sharpe Ratio: 0.236021
+
+Stock: CMCSA
+  RMSE: 0.016833
+  R^2: -0.104926
+  Mean Daily Return: 0.000234
+  Daily Return Std Dev: 0.016014
+  Annualized Volatility: 0.254214
+  Sharpe Ratio: 0.231679
+
+Stock: COST
+  RMSE: 0.014354
+  R^2: -0.071869
+  Mean Daily Return: 0.000903
+  Daily Return Std Dev: 0.013864
+  Annualized Volatility: 0.220087
+  Sharpe Ratio: 1.034435
+
+Stock: CRM
+  RMSE: 0.023414
+  R^2: -0.121737
+  Mean Daily Return: 0.000615
+  Daily Return Std Dev: 0.022107
+  Annualized Volatility: 0.350937
+  Sharpe Ratio: 0.441490
+
+Stock: CSCO
+  RMSE: 0.016797
+  R^2: -0.093911
+  Mean Daily Return: 0.000393
+  Daily Return Std Dev: 0.016060
+  Annualized Volatility: 0.254939
+  Sharpe Ratio: 0.388204
+
+Stock: CVX
+  RMSE: 0.020887
+  R^2: -0.186935
+  Mean Daily Return: 0.000469
+  Daily Return Std Dev: 0.019172
+  Annualized Volatility: 0.304347
+  Sharpe Ratio: 0.388583
+
+Stock: DHR
+  RMSE: 0.019206
+  R^2: -0.119698
+  Mean Daily Return: 0.000842
+  Daily Return Std Dev: 0.018150
+  Annualized Volatility: 0.288126
+  Sharpe Ratio: 0.736358
+
+Stock: DIS
+  RMSE: 0.018717
+  R^2: -0.098356
+  Mean Daily Return: 0.000021
+  Daily Return Std Dev: 0.017859
+  Annualized Volatility: 0.283503
+  Sharpe Ratio: 0.018660
+
+Stock: GLD
+  RMSE: 0.008946
+  R^2: -0.019662
+  Mean Daily Return: 0.000304
+  Daily Return Std Dev: 0.008860
+  Annualized Volatility: 0.140641
+  Sharpe Ratio: 0.544314
+
+Stock: GOOGL
+  RMSE: 0.018511
+  R^2: -0.080237
+  Mean Daily Return: 0.000792
+  Daily Return Std Dev: 0.017811
+  Annualized Volatility: 0.282737
+  Sharpe Ratio: 0.706274
+
+Stock: HD
+  RMSE: 0.016509
+  R^2: -0.100468
+  Mean Daily Return: 0.000566
+  Daily Return Std Dev: 0.015737
+  Annualized Volatility: 0.249817
+  Sharpe Ratio: 0.570641
+
+Stock: HON
+  RMSE: 0.015400
+  R^2: -0.115247
+  Mean Daily Return: 0.000449
+  Daily Return Std Dev: 0.014582
+  Annualized Volatility: 0.231487
+  Sharpe Ratio: 0.488261
+
+Stock: IBM
+  RMSE: 0.016077
+  R^2: -0.111092
+  Mean Daily Return: 0.000251
+  Daily Return Std Dev: 0.015252
+  Annualized Volatility: 0.242114
+  Sharpe Ratio: 0.260817
+
+Stock: INTC
+  RMSE: 0.023069
+  R^2: -0.133651
+  Mean Daily Return: 0.000142
+  Daily Return Std Dev: 0.021667
+  Annualized Volatility: 0.343945
+  Sharpe Ratio: 0.104048
+
+Stock: JNJ
+  RMSE: 0.011793
+  R^2: -0.043205
+  Mean Daily Return: 0.000308
+  Daily Return Std Dev: 0.011546
+  Annualized Volatility: 0.183287
+  Sharpe Ratio: 0.422884
+
+Stock: KO
+  RMSE: 0.011870
+  R^2: -0.062783
+  Mean Daily Return: 0.000362
+  Daily Return Std Dev: 0.011514
+  Annualized Volatility: 0.182772
+  Sharpe Ratio: 0.499000
+
+Stock: LIN
+  RMSE: 0.015344
+  R^2: -0.066722
+  Mean Daily Return: 0.000739
+  Daily Return Std Dev: 0.014856
+  Annualized Volatility: 0.235839
+  Sharpe Ratio: 0.789767
+
+Stock: LLY
+  RMSE: 0.017899
+  R^2: -0.064795
+  Mean Daily Return: 0.001153
+  Daily Return Std Dev: 0.017346
+  Annualized Volatility: 0.275356
+  Sharpe Ratio: 1.055517
+
+Stock: MA
+  RMSE: 0.017845
+  R^2: -0.067226
+  Mean Daily Return: 0.000726
+  Daily Return Std Dev: 0.017274
+  Annualized Volatility: 0.274217
+  Sharpe Ratio: 0.667444
+
+Stock: MCD
+  RMSE: 0.013324
+  R^2: -0.063584
+  Mean Daily Return: 0.000540
+  Daily Return Std Dev: 0.012920
+  Annualized Volatility: 0.205093
+  Sharpe Ratio: 0.663695
+
+Stock: MDT
+  RMSE: 0.015474
+  R^2: -0.102646
+  Mean Daily Return: 0.000163
+  Daily Return Std Dev: 0.014736
+  Annualized Volatility: 0.233927
+  Sharpe Ratio: 0.175301
+
+Stock: MRK
+  RMSE: 0.013992
+  R^2: -0.078515
+  Mean Daily Return: 0.000530
+  Daily Return Std Dev: 0.013473
+  Annualized Volatility: 0.213883
+  Sharpe Ratio: 0.623950
+
+Stock: MSFT
+  RMSE: 0.018041
+  R^2: -0.104573
+  Mean Daily Return: 0.001124
+  Daily Return Std Dev: 0.017166
+  Annualized Volatility: 0.272501
+  Sharpe Ratio: 1.039376
+
+Stock: NEE
+  RMSE: 0.016465
+  R^2: -0.126070
+  Mean Daily Return: 0.000598
+  Daily Return Std Dev: 0.015516
+  Annualized Volatility: 0.246311
+  Sharpe Ratio: 0.611668
+
+Stock: NFLX
+  RMSE: 0.030281
+  R^2: -0.172211
+  Mean Daily Return: 0.000861
+  Daily Return Std Dev: 0.027968
+  Annualized Volatility: 0.443982
+  Sharpe Ratio: 0.488632
+
+Stock: NKE
+  RMSE: 0.020077
+  R^2: -0.086225
+  Mean Daily Return: 0.000186
+  Daily Return Std Dev: 0.019263
+  Annualized Volatility: 0.305797
+  Sharpe Ratio: 0.153143
+
+Stock: NVDA
+  RMSE: 0.032809
+  R^2: -0.149345
+  Mean Daily Return: 0.002450
+  Daily Return Std Dev: 0.030604
+  Annualized Volatility: 0.485817
+  Sharpe Ratio: 1.270734
+
+Stock: ORCL
+  RMSE: 0.018083
+  R^2: -0.083212
+  Mean Daily Return: 0.000681
+  Daily Return Std Dev: 0.017375
+  Annualized Volatility: 0.275812
+  Sharpe Ratio: 0.622338
+
+Stock: PEP
+  RMSE: 0.012283
+  R^2: -0.054174
+  Mean Daily Return: 0.000388
+  Daily Return Std Dev: 0.011963
+  Annualized Volatility: 0.189909
+  Sharpe Ratio: 0.515289
+
+Stock: PFE
+  RMSE: 0.015280
+  R^2: -0.054866
+  Mean Daily Return: 0.000101
+  Daily Return Std Dev: 0.014877
+  Annualized Volatility: 0.236163
+  Sharpe Ratio: 0.108154
+
+Stock: PG
+  RMSE: 0.011846
+  R^2: -0.011761
+  Mean Daily Return: 0.000524
+  Daily Return Std Dev: 0.011777
+  Annualized Volatility: 0.186955
+  Sharpe Ratio: 0.705770
+
+Stock: QCOM
+  RMSE: 0.024839
+  R^2: -0.126346
+  Mean Daily Return: 0.000696
+  Daily Return Std Dev: 0.023404
+  Annualized Volatility: 0.371532
+  Sharpe Ratio: 0.472175
+
+Stock: RTX
+  RMSE: 0.018762
+  R^2: -0.161000
+  Mean Daily Return: 0.000353
+  Daily Return Std Dev: 0.017413
+  Annualized Volatility: 0.276420
+  Sharpe Ratio: 0.322206
+
+Stock: SLV
+  RMSE: 0.017441
+  R^2: -0.064740
+  Mean Daily Return: 0.000287
+  Daily Return Std Dev: 0.016902
+  Annualized Volatility: 0.268313
+  Sharpe Ratio: 0.269890
+
+Stock: T
+  RMSE: 0.014996
+  R^2: -0.048096
+  Mean Daily Return: 0.000188
+  Daily Return Std Dev: 0.014648
+  Annualized Volatility: 0.232535
+  Sharpe Ratio: 0.203364
+
+Stock: TMO
+  RMSE: 0.016308
+  R^2: -0.063147
+  Mean Daily Return: 0.000678
+  Daily Return Std Dev: 0.015817
+  Annualized Volatility: 0.251079
+  Sharpe Ratio: 0.680367
+
+Stock: TXN
+  RMSE: 0.018614
+  R^2: -0.091397
+  Mean Daily Return: 0.000737
+  Daily Return Std Dev: 0.017818
+  Annualized Volatility: 0.282849
+  Sharpe Ratio: 0.656558
+
+Stock: UNH
+  RMSE: 0.017512
+  R^2: -0.138774
+  Mean Daily Return: 0.000734
+  Daily Return Std Dev: 0.016411
+  Annualized Volatility: 0.260512
+  Sharpe Ratio: 0.710087
+
+Stock: VZ
+  RMSE: 0.012469
+  R^2: -0.031960
+  Mean Daily Return: 0.000156
+  Daily Return Std Dev: 0.012274
+  Annualized Volatility: 0.194843
+  Sharpe Ratio: 0.201579
+
+Stock: WMT
+  RMSE: 0.013785
+  R^2: -0.040767
+  Mean Daily Return: 0.000609
+  Daily Return Std Dev: 0.013512
+  Annualized Volatility: 0.214494
+  Sharpe Ratio: 0.716011
+
+Stock: XOM
+  RMSE: 0.018987
+  R^2: -0.114908
+  Mean Daily Return: 0.000372
+  Daily Return Std Dev: 0.017982
+  Annualized Volatility: 0.285456
+  Sharpe Ratio: 0.328631
+
